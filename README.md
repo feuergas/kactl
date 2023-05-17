@@ -8,6 +8,8 @@ and [content/](https://github.com/kth-competitive-programming/kactl/tree/master/
 
 ## Aspirations
 
+mattakkione
+
 KACTL algorithms should be: useful, short, fast enough, readable, and if relevant, easy to modify.
 Short and readable sometimes conflict -- usually then short takes precedence, although
 the algorithms should still be made easy to type in and hard to make typos in (since ICPC-style contests
